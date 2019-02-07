@@ -10,7 +10,7 @@
 
 Install bundle with `Composer` dependency manager first by running the command:
 
-`$ composer require oachoor/rating-bundle`
+`$ composer require kanegnon/rating-bundle`
 
 ### Register the bundle
 
